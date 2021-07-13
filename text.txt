@@ -9,6 +9,7 @@ Product Cart
 Payment Methods
 Security
 
+
 With the index.js file, we are going to handle the following :-
 
 Adding functionality to toggle the navigation menu
